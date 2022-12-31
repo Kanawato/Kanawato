@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Kanzuji! 👋</h1>
+<h1 align="center">👋 Hey, I'm Kanawato! 👋</h1>
 
 <div align="center">
 
